@@ -1,4 +1,4 @@
-To run the project do the this steps:
+To run the project do these steps:
 
 1- build the project using 'Comm + Shift + b'
 
